@@ -21,5 +21,4 @@ Ask Buddy is an AI-powered conversational chatbot built using **LangChain**, **G
 - **Environment Management:** Python-dotenv
 
 ---
-
-## 📂 Project Structure
+ ### create a env file where you store your api i doesnt give my api you uesd you apl key
